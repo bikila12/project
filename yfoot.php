@@ -1,0 +1,1 @@
+<div id="foot" align="center">Copyright &copy; 2025 jinka University Graduate Credetials Verification.  All rights reserved.<br />Designed by Group 8:bikila,kadir, hayimanot&nbsp;<br />E-mail-<a href="bikilataye816@gmail.com"><font color="blue">bikilataye816@gmail.com</font></a></div>

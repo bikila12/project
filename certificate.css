@@ -1,0 +1,97 @@
+#certificate {
+  width: 135%; /* Adjusts to fit most screen sizes */
+  max-width: 1200px; /* Ensures it doesn't grow too large */
+  margin: 40px auto; /* Centers the certificate */
+  padding: 40px; /* Adds space inside the border */
+  border: 5px solid #800000; /* Thicker border for prominence */
+  border-radius: 20px; /* Smooth, rounded corners */
+  background-color: #c0c0c0; /* Light background for contrast */
+  box-shadow: 0 10px 20px rgba(128,0,128); /* Soft shadow for depth */
+  font-family: 'Georgia', serif; /* Elegant font choice */
+  text-align: center;
+  position: relative;
+  
+}
+
+.certificate-header {
+  margin-bottom: 30px; /* Adds spacing below the header */
+}
+
+.logo-left, .logo-right {
+  position: absolute;
+  top: 20px;
+  width: 135px;
+  height: auto;
+}
+
+.logo-left {
+  left: 20px;
+}
+
+.logo-right {
+  right: 20px;
+}
+
+.certificate-header h1 {
+  font-size: 32px; /* Larger, prominent font */
+  color: #000; /* Black text for strong visibility */
+  margin: 0;
+}
+
+.certificate-header h2 {
+  font-size: 24px; /* Smaller subtitle font */
+  color: #666; /* Subtle contrast */
+  margin-top: 10px;
+}
+
+.certificate-body {
+  height: 340px;
+  text-align: left;
+  margin: 20px auto;
+  font-size: 18px; /* Clearer text size */
+  line-height: 1.6; /* Improved readability */
+}
+
+.certificate-body p {
+  margin: 10px 0;
+}
+
+.certificate-body p strong {
+  color: #333; /* Highlight important labels */
+}
+
+.signature-section {
+  margin-top: 30px; /* Adds spacing above signatures/stamps */
+  text-align: center;
+}
+
+.signature-section img {
+  width: 150px; /* Visible stamp size */
+  height: auto;
+  opacity: 0.85; /* Subtle transparency */
+}
+
+.print-btn {
+  display: inline-block;
+  margin-top: 20px; /* Spacing above the button */
+  padding: 10px 20px; /* Comfortable button size */
+  font-size: 16px;
+  color: #fff;
+  background-color: #007bff; /* Primary button color */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.print-btn:hover {
+  background-color: #0056b3; /* Slightly darker on hover */
+}
+hr {
+  border: none;
+  height: 2px;
+  background-color: black; /* Change line color */
+  width: 80%; /* Adjust line width */
+  margin: 20px auto; /* Center the line */
+}
+   

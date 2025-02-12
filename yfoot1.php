@@ -1,0 +1,1 @@
+<div id="foot1" align="center">Copyright &copy; 2025 jinka University Graduate Credetials Verification.  All rights reserved.&nbsp;</div>
